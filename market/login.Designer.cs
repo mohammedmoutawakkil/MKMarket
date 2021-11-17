@@ -117,12 +117,12 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Arial", 8.5F);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(82, 378);
+            this.label1.Location = new System.Drawing.Point(96, 378);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(196, 22);
+            this.label1.Size = new System.Drawing.Size(153, 17);
             this.label1.TabIndex = 11;
             this.label1.Text = "Don\'t have an acount?";
             // 
@@ -130,12 +130,12 @@
             // 
             this.lblSingIn.AutoSize = true;
             this.lblSingIn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.lblSingIn.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSingIn.Font = new System.Drawing.Font("Arial", 8.5F);
             this.lblSingIn.ForeColor = System.Drawing.Color.Teal;
-            this.lblSingIn.Location = new System.Drawing.Point(285, 378);
+            this.lblSingIn.Location = new System.Drawing.Point(300, 378);
             this.lblSingIn.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSingIn.Name = "lblSingIn";
-            this.lblSingIn.Size = new System.Drawing.Size(69, 22);
+            this.lblSingIn.Size = new System.Drawing.Size(52, 17);
             this.lblSingIn.TabIndex = 12;
             this.lblSingIn.Text = "Sing In";
             this.lblSingIn.Click += new System.EventHandler(this.lblSingIn_Click);
@@ -143,12 +143,12 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Arial", 8.5F);
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(188, 410);
+            this.label2.Location = new System.Drawing.Point(202, 410);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(94, 22);
+            this.label2.Size = new System.Drawing.Size(73, 17);
             this.label2.TabIndex = 13;
             this.label2.Text = "Login with";
             // 

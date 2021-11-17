@@ -16,7 +16,7 @@ namespace market
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new presentation());
+            Application.Run(new login());
         }
     }
 }
