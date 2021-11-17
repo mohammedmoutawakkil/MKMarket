@@ -61,3 +61,6 @@ E:\market\market\obj\Debug\market.Custemers.resources
 E:\market\market\obj\Debug\market.Marketing.resources
 E:\market\market\obj\Debug\market.Products.resources
 E:\market\market\obj\Debug\market.Settings.resources
+C:\Users\dell\Source\Repos\MKMarket\market\bin\Debug\market.exe.config
+C:\Users\dell\Source\Repos\MKMarket\market\obj\Debug\market.exe
+C:\Users\dell\Source\Repos\MKMarket\market\obj\Debug\market.pdb
