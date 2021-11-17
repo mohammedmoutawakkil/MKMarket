@@ -57,7 +57,7 @@
             this.txtusername.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtusername.ForeColor = System.Drawing.Color.White;
             this.txtusername.Location = new System.Drawing.Point(121, 190);
-            this.txtusername.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtusername.Margin = new System.Windows.Forms.Padding(4);
             this.txtusername.Name = "txtusername";
             this.txtusername.Size = new System.Drawing.Size(263, 18);
             this.txtusername.TabIndex = 1;
@@ -69,7 +69,7 @@
             // 
             this.paneluser.BackColor = System.Drawing.Color.White;
             this.paneluser.Location = new System.Drawing.Point(82, 214);
-            this.paneluser.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.paneluser.Margin = new System.Windows.Forms.Padding(4);
             this.paneluser.Name = "paneluser";
             this.paneluser.Size = new System.Drawing.Size(302, 2);
             this.paneluser.TabIndex = 2;
@@ -78,7 +78,7 @@
             // 
             this.panelpassword.BackColor = System.Drawing.Color.White;
             this.panelpassword.Location = new System.Drawing.Point(82, 276);
-            this.panelpassword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelpassword.Margin = new System.Windows.Forms.Padding(4);
             this.panelpassword.Name = "panelpassword";
             this.panelpassword.Size = new System.Drawing.Size(302, 2);
             this.panelpassword.TabIndex = 5;
@@ -90,7 +90,7 @@
             this.txtpassword.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtpassword.ForeColor = System.Drawing.Color.White;
             this.txtpassword.Location = new System.Drawing.Point(121, 251);
-            this.txtpassword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtpassword.Margin = new System.Windows.Forms.Padding(4);
             this.txtpassword.Name = "txtpassword";
             this.txtpassword.Size = new System.Drawing.Size(263, 18);
             this.txtpassword.TabIndex = 4;
@@ -106,7 +106,7 @@
             this.loginbtn.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.loginbtn.ForeColor = System.Drawing.Color.White;
             this.loginbtn.Location = new System.Drawing.Point(84, 320);
-            this.loginbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.loginbtn.Margin = new System.Windows.Forms.Padding(4);
             this.loginbtn.Name = "loginbtn";
             this.loginbtn.Size = new System.Drawing.Size(300, 41);
             this.loginbtn.TabIndex = 6;
@@ -163,7 +163,7 @@
             this.twiterbtn.IconSize = 60;
             this.twiterbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.twiterbtn.Location = new System.Drawing.Point(311, 446);
-            this.twiterbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.twiterbtn.Margin = new System.Windows.Forms.Padding(4);
             this.twiterbtn.Name = "twiterbtn";
             this.twiterbtn.Rotation = 0D;
             this.twiterbtn.Size = new System.Drawing.Size(67, 62);
@@ -181,7 +181,7 @@
             this.gmailbtn.IconSize = 60;
             this.gmailbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.gmailbtn.Location = new System.Drawing.Point(197, 446);
-            this.gmailbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gmailbtn.Margin = new System.Windows.Forms.Padding(4);
             this.gmailbtn.Name = "gmailbtn";
             this.gmailbtn.Rotation = 0D;
             this.gmailbtn.Size = new System.Drawing.Size(67, 62);
@@ -199,7 +199,7 @@
             this.facebookbtn.IconSize = 60;
             this.facebookbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.facebookbtn.Location = new System.Drawing.Point(84, 446);
-            this.facebookbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.facebookbtn.Margin = new System.Windows.Forms.Padding(4);
             this.facebookbtn.Name = "facebookbtn";
             this.facebookbtn.Rotation = 0D;
             this.facebookbtn.Size = new System.Drawing.Size(67, 62);
@@ -216,7 +216,7 @@
             this.iconpassword.IconColor = System.Drawing.Color.White;
             this.iconpassword.IconSize = 30;
             this.iconpassword.Location = new System.Drawing.Point(69, 224);
-            this.iconpassword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconpassword.Margin = new System.Windows.Forms.Padding(4);
             this.iconpassword.Name = "iconpassword";
             this.iconpassword.Rotation = 0D;
             this.iconpassword.Size = new System.Drawing.Size(44, 62);
@@ -232,7 +232,7 @@
             this.iconuser.IconColor = System.Drawing.Color.White;
             this.iconuser.IconSize = 30;
             this.iconuser.Location = new System.Drawing.Point(69, 162);
-            this.iconuser.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconuser.Margin = new System.Windows.Forms.Padding(4);
             this.iconuser.Name = "iconuser";
             this.iconuser.Rotation = 0D;
             this.iconuser.Size = new System.Drawing.Size(44, 62);
@@ -250,7 +250,7 @@
             this.iconCLOSE.IconColor = System.Drawing.Color.White;
             this.iconCLOSE.IconSize = 22;
             this.iconCLOSE.Location = new System.Drawing.Point(437, 2);
-            this.iconCLOSE.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconCLOSE.Margin = new System.Windows.Forms.Padding(4);
             this.iconCLOSE.Name = "iconCLOSE";
             this.iconCLOSE.Rotation = 0D;
             this.iconCLOSE.Size = new System.Drawing.Size(29, 21);
@@ -272,7 +272,7 @@
             // 
             this.pnl_username_error.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.pnl_username_error.Location = new System.Drawing.Point(371, 190);
-            this.pnl_username_error.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pnl_username_error.Margin = new System.Windows.Forms.Padding(4);
             this.pnl_username_error.Name = "pnl_username_error";
             this.pnl_username_error.Size = new System.Drawing.Size(13, 26);
             this.pnl_username_error.TabIndex = 28;
@@ -282,7 +282,7 @@
             // 
             this.pnl_password_error.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.pnl_password_error.Location = new System.Drawing.Point(371, 251);
-            this.pnl_password_error.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pnl_password_error.Margin = new System.Windows.Forms.Padding(4);
             this.pnl_password_error.Name = "pnl_password_error";
             this.pnl_password_error.Size = new System.Drawing.Size(13, 26);
             this.pnl_password_error.TabIndex = 29;
@@ -330,7 +330,7 @@
             this.Controls.Add(this.txtusername);
             this.Controls.Add(this.iconuser);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "login";

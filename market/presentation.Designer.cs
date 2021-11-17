@@ -42,12 +42,12 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Trebuchet MS", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Turquoise;
-            this.label3.Location = new System.Drawing.Point(70, 407);
+            this.label3.Location = new System.Drawing.Point(106, 407);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(214, 24);
+            this.label3.Size = new System.Drawing.Size(142, 24);
             this.label3.TabIndex = 9;
-            this.label3.Text = "Copyright © MK Markers";
+            this.label3.Text = "Copyright © MK";
             // 
             // label2
             // 
@@ -72,7 +72,7 @@
             this.circulP.InnerMargin = 2;
             this.circulP.InnerWidth = -1;
             this.circulP.Location = new System.Drawing.Point(75, 143);
-            this.circulP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.circulP.Margin = new System.Windows.Forms.Padding(4);
             this.circulP.MarqueeAnimationSpeed = 2000;
             this.circulP.Name = "circulP";
             this.circulP.OuterColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(28)))), ((int)(((byte)(43)))));
@@ -102,7 +102,7 @@
             // 
             this.pictureBox1.Image = global::market.Properties.Resources._49ad159a_523b_4b02_97c4_9d2fe130aae6_200x200;
             this.pictureBox1.Location = new System.Drawing.Point(96, 33);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(165, 102);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -120,7 +120,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.circulP);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "presentation";
             this.Opacity = 0.9D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
