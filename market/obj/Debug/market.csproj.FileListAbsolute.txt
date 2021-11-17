@@ -1,0 +1,63 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\bin\Debug\market.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\obj\Debug\market.Form1.resources
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\obj\Debug\market.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\obj\Debug\market.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\bin\Debug\market.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\bin\Debug\market.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\bin\Debug\CircularProgressBar.dll
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\bin\Debug\FontAwesome.Sharp.dll
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\bin\Debug\WinFormAnimation.dll
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\bin\Debug\CircularProgressBar.xml
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\obj\Debug\market.DASHBOARD.resources
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\obj\Debug\market.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\obj\Debug\market.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\market\market\obj\Debug\market.presentation.resources
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\market\market\obj\Debug\market.login.resources
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\market\market\obj\Debug\market.Sign_in.resources
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\market\market\obj\Debug\market.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\market\market\bin\Debug\EntityFramework.dll
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\market\market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\market\market\bin\Debug\EntityFramework.xml
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\market\market\bin\Debug\EntityFramework.SqlServer.xml
+E:\c#\market\market\bin\Debug\market.exe.config
+E:\c#\market\market\obj\Debug\market.exe
+E:\c#\market\market\obj\Debug\market.pdb
+E:\c#\market\market\bin\Debug\market.exe
+E:\c#\market\market\bin\Debug\market.pdb
+E:\c#\market\market\bin\Debug\CircularProgressBar.dll
+E:\c#\market\market\bin\Debug\FontAwesome.Sharp.dll
+E:\c#\market\market\bin\Debug\WinFormAnimation.dll
+E:\c#\market\market\bin\Debug\CircularProgressBar.xml
+E:\c#\market\market\obj\Debug\market.csprojResolveAssemblyReference.cache
+E:\c#\market\market\obj\Debug\market.DASHBOARD.resources
+E:\c#\market\market\obj\Debug\market.Form1.resources
+E:\c#\market\market\obj\Debug\market.login.resources
+E:\c#\market\market\obj\Debug\market.presentation.resources
+E:\c#\market\market\obj\Debug\market.Properties.Resources.resources
+E:\c#\market\market\obj\Debug\market.Sign_in.resources
+E:\c#\market\market\obj\Debug\market.csproj.GenerateResource.Cache
+F:\c#\market\market\bin\Debug\market.exe.config
+F:\c#\market\market\obj\Debug\market.exe
+F:\c#\market\market\obj\Debug\market.pdb
+E:\market\market\bin\Debug\market.exe.config
+E:\market\market\obj\Debug\market.exe
+E:\market\market\obj\Debug\market.pdb
+E:\market\market\bin\Debug\market.exe
+E:\market\market\bin\Debug\market.pdb
+E:\market\market\bin\Debug\CircularProgressBar.dll
+E:\market\market\bin\Debug\FontAwesome.Sharp.dll
+E:\market\market\bin\Debug\WinFormAnimation.dll
+E:\market\market\bin\Debug\CircularProgressBar.xml
+E:\market\market\obj\Debug\market.DASHBOARD.resources
+E:\market\market\obj\Debug\market.Form1.resources
+E:\market\market\obj\Debug\market.login.resources
+E:\market\market\obj\Debug\market.presentation.resources
+E:\market\market\obj\Debug\market.Properties.Resources.resources
+E:\market\market\obj\Debug\market.Sign_in.resources
+E:\market\market\obj\Debug\market.csproj.GenerateResource.Cache
+E:\market\market\obj\Debug\market.Orders.resources
+E:\market\market\obj\Debug\market.About.resources
+E:\market\market\obj\Debug\market.Custemers.resources
+E:\market\market\obj\Debug\market.Marketing.resources
+E:\market\market\obj\Debug\market.Products.resources
+E:\market\market\obj\Debug\market.Settings.resources
